@@ -1,0 +1,22 @@
+{
+  "name": "foot",
+  "version": "1.0.0",
+  "description": "ligue1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pierre590/api.football.git"
+  },
+  "author": "piro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pierre590/api.football/issues"
+  },
+  "homepage": "https://github.com/Pierre590/api.football#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
